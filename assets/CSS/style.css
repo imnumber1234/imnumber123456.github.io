@@ -113,7 +113,7 @@
     left: 0;
     right: 0;
     z-index: 1;
-    overflow: hidden;
+   
 
 
 }
@@ -310,7 +310,7 @@
 
 #content .member-list{
     overflow: hidden;
-    margin-top: 48px;
+    margin-top: 32px;
 }
 #content .member-name{
 
@@ -369,7 +369,7 @@
 
 .place-list {
 
-    margin-top: 32px;
+    margin-top: 16px;
     margin-bottom: 48px;
     overflow: hidden;
     
